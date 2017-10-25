@@ -1,0 +1,14 @@
+.wrapper {
+  width: 980px;
+  margin: 0 auto;
+  .inner {
+    width: 100%;
+    overflow: hidden;
+    .list {
+      width: 4722px;
+      .list__item {
+        display: inline-block;
+      }
+    }
+  }
+}

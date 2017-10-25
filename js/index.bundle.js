@@ -1,0 +1,1 @@
+webpackJsonp([0],{3:function(n,t,i){"use strict";(new(i(5)))()},5:function(n,t,i){"use strict";var a=i(1),e=i(2);a(function(){function n(){window.requestAnimationFrame(n),e(t,{translateX:-i},{duration:.1}),3522===(i+=1)&&(i=0)}var t=a(".list"),i=0;n()})}},[3]);
