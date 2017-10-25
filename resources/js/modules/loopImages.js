@@ -7,7 +7,6 @@ $(function () {
 
     function animate() {
         window.requestAnimationFrame(animate);
-        // $item.css({transform: 'translateX(-' + position + 'px)'});
         velocity($list, {
                 translateX: -position
             },
